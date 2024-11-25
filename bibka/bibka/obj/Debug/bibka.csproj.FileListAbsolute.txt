@@ -1,0 +1,10 @@
+C:\Users\Luv$hen\source\repos\bibka\bibka\bin\Debug\bibka.exe.config
+C:\Users\Luv$hen\source\repos\bibka\bibka\bin\Debug\bibka.exe
+C:\Users\Luv$hen\source\repos\bibka\bibka\bin\Debug\bibka.pdb
+C:\Users\Luv$hen\source\repos\bibka\bibka\bin\Debug\biblio.dll
+C:\Users\Luv$hen\source\repos\bibka\bibka\bin\Debug\biblio.pdb
+C:\Users\Luv$hen\source\repos\bibka\bibka\obj\Debug\bibka.csproj.AssemblyReference.cache
+C:\Users\Luv$hen\source\repos\bibka\bibka\obj\Debug\bibka.csproj.CoreCompileInputs.cache
+C:\Users\Luv$hen\source\repos\bibka\bibka\obj\Debug\bibka.csproj.Up2Date
+C:\Users\Luv$hen\source\repos\bibka\bibka\obj\Debug\bibka.exe
+C:\Users\Luv$hen\source\repos\bibka\bibka\obj\Debug\bibka.pdb
